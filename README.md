@@ -28,7 +28,7 @@ To find the optimal balance of complexity and efficiency, we benchmarked the fol
 ## Evaluation & Decision Making
 As data scientists, our decisions were supported by sound evidence through model assessment, validation, and cross-comparison. We focused on reproducibility and the clear communication of evidence to justify our final model selection, walking the fine line between model complexity and computational cost.
 
-## 1. Model Evaluation & Final Selection
+### 1. Model Evaluation & Final Selection
 
 After benchmarking multiple strategies, **XGBoost + SMOTE** was selected as our final model. The decision was driven by its ability to balance high predictive power with the computational efficiency required for real-time applications.
 
@@ -61,6 +61,7 @@ Weiwei Song, Changhao He, Aurore Gosmant, Zi Fang, Jimmy Smiley
 
 
 ---
+
 
 
 
