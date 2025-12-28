@@ -28,14 +28,15 @@ To find the optimal balance of complexity and efficiency, we benchmarked the fol
 ## Evaluation & Decision Making
 As data scientists, our decisions were supported by sound evidence through model assessment, validation, and cross-comparison. We focused on reproducibility and the clear communication of evidence to justify our final model selection, walking the fine line between model complexity and computational cost.
 
+
+
+### Team members:
+* Weiwei Song
+* Changhao He
+* Aurore Gosmant
+* Zi Fang
+* Jimmy Smiley
+
+
 ---
-
-### Team members
-	+ Weiwei Song
-	+ Changhao He
-	+ Aurore Gosmant
-	+ Zi Fang
-	+ Jimmy Smiley
-
-
 
