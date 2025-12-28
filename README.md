@@ -53,14 +53,15 @@ A critical requirement for this project was minimizing **testing latency** witho
 
 ## Conclusion of Evidence
 While the **XGBoost + SMOTE** model achieved a similar accuracy to our baseline, it was chosen for two decisive reasons:
-1. **Higher AUC:** A result of 0.8111 indicates significantly better performance in distinguishing between emotion classes compared to the baseline.
-2. **Superior Speed:** The testing/prediction time is drastically lower (0.37s), making this engine efficient even when computational resources are limited.
+* **Higher AUC:** A result of 0.8111 indicates significantly better performance in distinguishing between emotion classes compared to the baseline.
+* **Superior Speed:** The testing/prediction time is drastically lower (0.37s), making this engine efficient even when computational resources are limited.
 
 #### Team members:
 Weiwei Song, Changhao He, Aurore Gosmant, Zi Fang, Jimmy Smiley
 
 
 ---
+
 
 
 
